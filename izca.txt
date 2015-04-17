@@ -1884,7 +1884,7 @@ later import them from main registration module.  In this application
 the main component registration module is `register.py`.
 
 Source code of this application can be downloaded from:
-http://www.muthukadan.net/downloads/zcalib.tar.bz2
+https://github.com/Covantec/zcadoc/archive/master.zip
 
 
 Use cases
