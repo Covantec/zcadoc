@@ -31,10 +31,10 @@ PURPOSE.
   book through my blog, I received many encouraging comments to
   proceed with this work.  Kent Tenney edited most parts of the book,
   he also rewrote the example application.  Many others sent me fixes
-  and comments including, Lorenzo Gil Sanchez, Michael Haubenwallner,
-  Nando Quintana, Stephane Klein, Tim Cook, Kamal Gill and Thomas
-  Herve.  Lorenzo translated this work to Spanish and Stephane
-  translated it to French.  Thanks to all !
+  and comments including, Lorenzo Gil Sanchez, Leonardo Caballero,
+  Michael Haubenwallner, Nando Quintana, Stephane Klein, Tim Cook,
+  Kamal Gill and Thomas Herve.  Lorenzo and Leonardo translated this work
+  to Spanish and Stephane translated it to French.  Thanks to all !
 
 .. contents::
 .. .. sectnum::
