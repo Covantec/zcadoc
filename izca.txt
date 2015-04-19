@@ -130,7 +130,7 @@ separating out core ZCA functionality from add-on features [#extras]_.
 
 .. [#extras] http://peak.telecommunity.com/DevCenter/setuptools#declaring-dependencies
 
-In March 2009, Tres Seaver removed dependcencies of
+In March 2009, Tres Seaver removed dependencies of
 ``zope.deferredimport`` and ``zope.proxy``.
 
 Now, The ZCA project is an independent project with it's own release
