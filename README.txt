@@ -54,7 +54,7 @@ Contributing to this project
 ----------------------------
 
 If you would like to contribute to this project, just create a
-personal bzr branch here: https://code.edge.launchpad.net/zcadoc
+personal git fork here: https://github.com/baijum/zcadoc
 
 After you made any change in your branch, please inform me or Kent.
 We will merge it to our branches and later we will publish it.
